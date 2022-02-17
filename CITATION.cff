@@ -10,5 +10,6 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Philipp Erhardt
+  - family-names: Erhardt
+    given-names: Philipp
     email: network-simulation@erhardt.sh
